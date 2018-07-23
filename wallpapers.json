@@ -2,82 +2,102 @@
   "wallpapers": [
     {
       		  "name": "Cabin",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper01.jpg"
         },
         {
             "name": "Leaves",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper02.jpg"
         },
         {
             "name": "Path",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper03.jpg"
         },
         {
             "name": "Acacia",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper04.jpg"
         },
         {
             "name": "Bridge",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper05.jpg"
         },
         {
       		"name": "Winding",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper06.jpg"
         },
         {
             "name": "Leaves",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper07.jpg"
         },
         {
             "name": "Branch",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper08.jpg"
         },
         {
             "name": "Deer",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper09.jpg"
         },
         {
             "name": "Mushrooms",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper10.jpg"
         },
         {
       		"name": "Toadstool",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper11.jpg"
         },
         {
             "name": "Grapes",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper12.jpg"
         },
         {
             "name": "Toadstool",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper13.jpg"
         },
         {
             "name": "Growth",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper14.jpg"
         },
         {
             "name": "Boat",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper15.jpg"
         },
         {
       		"name": "Garden",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper16.jpg"
         },
         {
             "name": "Pumpkins",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper17.jpg"
         },
         {
             "name": "Pumpkins",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper18.jpg"
         },
         {
             "name": "Tea",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper19.jpg"
         },
         {
             "name": "Forest",
+            "author": "Decorus Graphical Design",
             "url": "https://raw.githubusercontent.com/DecorusGD/Autumn/master/Wallpaper20.jpg"
         }
   ]
